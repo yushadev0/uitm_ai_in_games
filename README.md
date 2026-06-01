@@ -3,7 +3,7 @@
 **Student:** Yuşa Göverdik <br>
 **Instructor:** M.Sc. Eng. Piotr Synoś <br>
 **Institution:** University of Information Technology and Management in Rzeszów (UITM) <br>
-**Program:** Game Design Development (Erasmus+) <br>
+**Program:** Game Design Development (Erasmus+) - AI in Games Lecture  <br>
 
 ---
 
