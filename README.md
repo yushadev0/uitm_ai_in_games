@@ -1,9 +1,9 @@
 # Unreal Engine AI Implementation
 
-**Student:** Yuşa Göverdik
-**Instructor:** M.Sc. Eng. Piotr Synoś
-**Institution:** University of Information Technology and Management in Rzeszów (UITM)
-**Program:** Game Design Development (Erasmus+)
+**Student:** Yuşa Göverdik <br>
+**Instructor:** M.Sc. Eng. Piotr Synoś <br>
+**Institution:** University of Information Technology and Management in Rzeszów (UITM) <br>
+**Program:** Game Design Development (Erasmus+) <br>
 
 ---
 
